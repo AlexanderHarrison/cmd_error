@@ -6,4 +6,5 @@ edition = "2021"
 license = "MIT OR Apache-2.0"
 description = "Simple crate to print an error message and exit while unwrapping Options and Results"
 readme = "Readme.md"
-
+repository = "https://github.com/AlexanderHarrison/cmd_error"
+categories = ["command-line-interface", "command-line-utilities", "no-std", "rust-patterns"]
