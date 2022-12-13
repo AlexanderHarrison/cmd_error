@@ -1,0 +1,9 @@
+[package]
+name = "cmd_error"
+version = "1.0.0"
+edition = "2021"
+
+license = "MIT OR Apache-2.0"
+description = "Simple crate to print and message and exit while unwrapping Options and Results"
+readme = "Readme.md"
+
