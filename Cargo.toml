@@ -4,6 +4,6 @@ version = "1.0.0"
 edition = "2021"
 
 license = "MIT OR Apache-2.0"
-description = "Simple crate to print and message and exit while unwrapping Options and Results"
+description = "Simple crate to print an error message and exit while unwrapping Options and Results"
 readme = "Readme.md"
 
